@@ -39,5 +39,3 @@ The Image Recognition App is built using Flutter and Google ML Kit. Users can up
 1. Launch the app on your device.
 2. Tap the "Upload Image" button to select an image from your gallery.
 3. The app will process the image and display the identified objects with their accuracy rates.
-
-## Project Structure
